@@ -1,0 +1,26 @@
+/* ==========================================================================
+   Variáveis globais do projeto
+   ========================================================================== */
+:root {
+  /* Cores */
+  --color-bg: #fdf0d5;
+  --color-text: #003049;
+  --color-primary: #669bbc;
+  --color-accent: #c1121f;
+  --color-white: #ffffff;
+
+
+  --font-base: "Oswald", sans-serif;
+
+
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+
+
+  --radius-sm: 0.5rem;
+  --radius-md: 1rem;
+  --max-width: 1200px;
+}
