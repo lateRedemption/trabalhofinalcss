@@ -126,7 +126,7 @@ header {
 .resumos {
   background-color: var(--color-primary);
   max-width: calc(var(--max-width) - 4rem);
-  margin: var(--space-lg);
+  margin: var(--space-lg) auto;
   padding: var(--space-lg) var(--space-md);
   border-radius: var(--radius-md);
   text-align: center;
