@@ -70,7 +70,6 @@ header {
 
 .banner {
   overflow: hidden;
-  white-space: nowrap;
   background-color: var(--color-accent);
   color: var(--color-white);
 }
