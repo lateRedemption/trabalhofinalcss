@@ -77,7 +77,7 @@ header {
 
 .banner-faixa {
   display: inline-flex;
-  animation: rolar-faixa 12s linear infinite;
+  animation: rolar-faixa 12s ease infinite;
   font-size: clamp(0.9rem, 1.8vw, 1.25rem);
   padding: var(--space-xs);
 }
