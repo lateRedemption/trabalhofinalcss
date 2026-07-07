@@ -86,7 +86,7 @@ header {
     transform: translateX(-100vw);
   }
   to {
-    transform: translateX(110vw);
+    transform: translateX(100vw);
   }
 }
 
