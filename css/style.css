@@ -83,10 +83,10 @@ header {
 
 @keyframes rolar-faixa {
   from {
-    translate: (-100vw, 0);
+    translate: -100vw, 0;
   }
   to {
-    translate: (110vw, 0);
+    translate: 110vw, 0;
   }
 }
 
